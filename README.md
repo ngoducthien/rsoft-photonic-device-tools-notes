@@ -1,4 +1,5 @@
 # rsoft-photonic-device-tools-notes
+A collection of notes, tips, tricks, and guides on running and troubleshooting the RSoft Photonic Device Tools.
 
 
 ## MPI (parallel engine) is not running on your computer.
